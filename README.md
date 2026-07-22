@@ -3,8 +3,12 @@
   Thanks for visiting my profile!
 -->
 
-<h1 align="center">Hi, I'm Chidvielas 👋</h1>
-<h3 align="center">Computer Science Engineering student specializing in Artificial Intelligence from Hyderabad, India</h3>
+<!-- Animated header using capsule-render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20I'm%20Chidvielas%20👋&fontAlign=50&fontAlignY=40&color=0:1e3c72,100:2a5298&animation=fadeIn" />
+</p>
+
+<h3 align="center">Computer Science Engineering student (AI) from Hyderabad, India</h3>
 
 ---
 
@@ -31,7 +35,7 @@
 
 **Frameworks & Libraries**
 
-- React, Next.js (or other JS frameworks you use)  
+- React, Next.js  
 - Node.js & Express  
 - Basic ML / AI with Python (NumPy, pandas, scikit-learn, etc.)
 
@@ -44,33 +48,8 @@
 
 ---
 
-## What I like building
+## GitHub stats & activity
 
-- 🌐 Web apps and small full‑stack projects.
-- 🎮 Game and simulation prototypes to understand concepts.
-- 🤝 Open-source style experiments and GitHub projects that are easy for others to read and use.
-- 🧪 AI/ML experiments and MVPs that test ideas quickly.
+<!-- Animated GitHub stats cards (replace username with yours) -->
 
----
-
-## Featured projects
-
-<!-- Update these with real repos from your profile -->
-
-- 🔹 **Project 1 – [Your Cool Project Name]**  
-  Short one‑line description of what it does and why it’s interesting.
-
-- 🔹 **Project 2 – [Another Project]**  
-  Short description (tech stack used, what you learned).
-
-- 🔹 **Project 3 – [Experiment / Game / AI Tool]**  
-  Short description focusing on AI, game dev, or APIs.
-
-You can find more projects pinned on my profile and in my repositories.
-
----
-
-## Currently exploring
-
-- 🧠 Practical AI/ML projects (classification, recommendation, simple agents).
-- 🕹 Game development concepts
+<p align="center">
