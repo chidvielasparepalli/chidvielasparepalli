@@ -30,8 +30,8 @@
 
 - JavaScript / TypeScript  
 - Python  
-- C / C++  
-- Java (if applicable)
+- C++  
+- HTML & CSS
 
 **Frameworks & Libraries**
 
@@ -86,13 +86,13 @@
 
 <!-- Update these with real repos from your profile -->
 
-- 🔹 **Project 1 – [Your Cool Project Name]**  
+- 🔹 **Project 1 – [CHIDVI-555]**  
   Short one‑line description of what it does and why it’s interesting.
 
-- 🔹 **Project 2 – [Another Project]**  
+- 🔹 **Project 2 – [LifeContinuityAI]**  
   Short description (tech stack used, what you learned).
 
-- 🔹 **Project 3 – [Experiment / Game / AI Tool]**  
+- 🔹 **Project 3 – [KAISEL]**  
   Short description focusing on AI, game dev, or APIs.
 
 You can find more projects pinned on my profile and in my repositories.
@@ -130,9 +130,9 @@ You can find more projects pinned on my profile and in my repositories.
 
 ## How to reach me
 
-- 📧 Email: `your-email@provider.com`
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 🌐 Portfolio / personal site: [Your site, if any]
+- 📧 Email: `chidvielasparepalli@gmail.com`
+- 💼 LinkedIn: [www.linkedin.com/in/chidvielas-parepalli-167702372]
+- 🌐 Portfolio / personal site: [chidvielas1.niat.tech]
 
 <p align="center">
   Thanks for stopping by ⭐  
