@@ -101,12 +101,11 @@ You can find more projects pinned on my profile and in my repositories.
 
 ## Contribution snake (animated)
 
-<!-- Needs a GitHub Actions workflow setup; SVG will update automatically once configured -->
+## Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chidvielasparepalli/chidvielasparepalli/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/chidvielasparepalli/chidvielasparepalli/output/github-contribution-grid-snake.svg" alt="Snake eating my GitHub contributions" />
 </p>
-
 ---
 
 ## Fun corner
