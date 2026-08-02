@@ -131,7 +131,7 @@ You can find more projects pinned on my profile and in my repositories.
 
 - 📧 Email: `chidvielasparepalli@gmail.com`
 - 💼 LinkedIn: [www.linkedin.com/in/chidvielas-parepalli-167702372]
-- 🌐 Portfolio / personal site: [chidvielas1.niat.tech]
+- 🌐 Portfolio / personal site: [chidvielas.niat.tech]
 
 <p align="center">
   Thanks for stopping by ⭐  
