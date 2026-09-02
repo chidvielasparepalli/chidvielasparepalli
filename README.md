@@ -48,30 +48,12 @@
 
 ---
 
-## GitHub stats & activity
-
-<!-- Animated GitHub stats cards (replace username with yours) -->
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=chidvielasparepalli&show_icons=true&theme=tokyonight"
-    alt="GitHub stats" />
-</p>
-
+## GitHub activity
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=chidvielasparepalli&theme=tokyonight"
     alt="GitHub streak" />
 </p>
-
-<!-- Top languages card -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidvielasparepalli&layout=compact&theme=tokyonight"
-    alt="Top languages" />
-</p>
-
----
 
 ## What I like building
 
