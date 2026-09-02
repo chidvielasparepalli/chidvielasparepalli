@@ -87,13 +87,13 @@
 <!-- Update these with real repos from your profile -->
 
 - 🔹 **Project 1 – [CHIDVI-555]**  
-  Short one‑line description of what it does and why it’s interesting.
+CHIDVI 555 is a personal AI assistant designed to help with coding, productivity, automation, information, and everyday tasks through voice and text interaction. 🤖⚡
 
 - 🔹 **Project 2 – [LifeContinuityAI]**  
-  Short description (tech stack used, what you learned).
+Life Continuity AI is an AI-powered safety system that helps protect and support individuals through automated check-ins, proof-of-life monitoring, trusted-contact alerts, and a real-time safety dashboard. 🛡️🤖
 
 - 🔹 **Project 3 – [KAISEL]**  
-  Short description focusing on AI, game dev, or APIs.
+KAISEL is a Jarvis-style AI assistant designed for intelligent voice interaction, automation, task management, memory, and personalized assistance. 🤖⚡
 
 You can find more projects pinned on my profile and in my repositories.
 
