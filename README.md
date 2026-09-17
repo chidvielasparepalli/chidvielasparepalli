@@ -24,36 +24,50 @@
 
 ## Tech stack & tools
 
-<!-- Replace or expand these with what you actually use -->
-
 **Languages**
 
-- JavaScript / TypeScript  
-- Python  
-- C++  
+- JavaScript / TypeScript
+- Python
+- C++
 - HTML & CSS
 
 **Frameworks & Libraries**
 
-- React, Next.js  
-- Node.js & Express  
+- React, Next.js
+- Node.js & Express
 - Basic ML / AI with Python (NumPy, pandas, scikit-learn, etc.)
 
 **Tools & Platforms**
 
-- Git & GitHub  
-- Claude Code and other AI coding assistants  
-- VS Code  
+- Git & GitHub
+- Claude Code and other AI coding assistants
+- VS Code
 - Linux / terminal workflows
 
 ---
 
-## GitHub activity
+## ⚡ GitHub activity
+
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=chidvielasparepalli&theme=tokyonight"
-    alt="GitHub streak" />
+  <a href="https://github.com/chidvielasparepalli">
+    <img src="https://streak-stats.demolab.com/?user=chidvielasparepalli&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/chidvielasparepalli">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=chidvielasparepalli&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="Chidvielas' GitHub stats" />
+  </a>
+  <a href="https://github.com/chidvielasparepalli">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidvielasparepalli&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🚀 Building • 🤖 Learning • 🧪 Experimenting • 🌐 Shipping</sub>
+</p>
+
+---
 
 ## What I like building
 
@@ -66,25 +80,20 @@
 
 ## Featured projects
 
-<!-- Update these with real repos from your profile -->
-
-- 🔹 **Project 1 – [CHIDVI-555]**  
+- 🔹 **CHIDVI-555**  
 CHIDVI 555 is a personal AI assistant designed to help with coding, productivity, automation, information, and everyday tasks through voice and text interaction. 🤖⚡
 
-- 🔹 **Project 2 – [LifeContinuityAI]**  
+- 🔹 **LifeContinuityAI**  
 Life Continuity AI is an AI-powered safety system that helps protect and support individuals through automated check-ins, proof-of-life monitoring, trusted-contact alerts, and a real-time safety dashboard. 🛡️🤖
 
-- 🔹 **Project 3 – [KAISEL]**  
+- 🔹 **KAISEL**  
 KAISEL is a Jarvis-style AI assistant designed for intelligent voice interaction, automation, task management, memory, and personalized assistance. 🤖⚡
 
 You can find more projects pinned on my profile and in my repositories.
 
 ---
 
-
 ## Fun corner
-
-<!-- You can replace this GIF with anything you like (Giphy / Tenor GIF URL) -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding GIF" />
@@ -104,9 +113,9 @@ You can find more projects pinned on my profile and in my repositories.
 ## How to reach me
 
 - 📧 Email: `chidvielasparepalli@gmail.com`
-- 💼 LinkedIn: [www.linkedin.com/in/chidvielas-parepalli-167702372]
-- 🌐 Portfolio / personal site: [[https://chidvielas.niat.tech](https://chidvielas1.niat.tech/)]
+- 💼 LinkedIn: [Chidvielas Parepalli](https://www.linkedin.com/in/chidvielas-parepalli-167702372/)
+- 🌐 Portfolio: [chidvielas.niat.tech](https://chidvielas1.niat.tech/)
 
 <p align="center">
-  Thanks for stopping by ⭐  
+  Thanks for stopping by ⭐
 </p>
